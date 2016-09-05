@@ -1,1 +1,2 @@
 den ca con khi cung co the hieu duoc lenh git
+sua tren master
