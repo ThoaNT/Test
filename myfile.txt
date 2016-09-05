@@ -1,3 +1,4 @@
 nhung dong dau tien trong git
 sua tren master
 issue1
+issue3
