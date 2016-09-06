@@ -1,1 +1,1 @@
-den con khi cung hieu duoc lenh git
+nhung dong dau tien trong git
